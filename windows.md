@@ -77,7 +77,7 @@ Head over to the download page to download the [FTK Imager](https://www.exterro.
 
 ## Setup completed!
 
-Your computer is ready for the [CLA Cybersecurity bootcamp](https://codelabsacademy.com/en/courses/cybersecurity) :muscle: :clap:
+Your computer is ready for the [CLA Cybersecurity bootcamp](https://codelabsacademy.com/en/courses/cybersecurity) :muscle: :clap: Please note over the course of the bootcamp, you may need to download additional tools not included here
 
 Wishing you all the best :rocket:
 
