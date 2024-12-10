@@ -4,7 +4,7 @@ Setup guides for [Code Labs Academy](https://www.codelabsacademy.com) Cybersecur
   <tr>
     <td>
       <a href="windows.md">
-        <img src="images/windows_logo.png" alt="Windows">
+        <img src="images/Windows-New-Logo" alt="Windows">
       </a>
     </td>
     <td>
