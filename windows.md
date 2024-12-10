@@ -65,6 +65,8 @@ Head over to the download page to download the [Flare-VM](https://github.com/man
 
 Head over to the download page to download the [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) and follow the docker container installation instructions
 
+![Owasp picture](images/owasp.png)
+
 
 
 ## FTK Imager
